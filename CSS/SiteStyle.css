@@ -1,8 +1,11 @@
 body {
-  background-color: rgba(206, 212, 212,1);
+  background-color: rgba(206, 212, 212, 1);
   padding: 20px;
 }
 
 .navbar-custom {
-  background-color: rgba(75,0,120,1);
+  background-color: rgba(75, 0, 120, 1);
+}
+.container:nth-child(2) {
+  margin-top: 55px;
 }
