@@ -1,2 +1,2 @@
-# KeelCodeStie
-website code for Keel.Code.com
+# Keel Code Site
+website code for KeelCode.com
