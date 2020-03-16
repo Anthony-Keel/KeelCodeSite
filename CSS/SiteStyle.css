@@ -1,5 +1,8 @@
 body {
-  background-color: rgba(206, 212, 212, 1);
+  /* background-color: rgba(206, 212, 212, 1);*/
+  background-image: url("..\Images\sorasak-WBlYB_A5tzI-unsplash.jpg");
+  background-size: cover;
+
   padding: 20px;
 }
 
