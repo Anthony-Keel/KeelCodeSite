@@ -1,8 +1,9 @@
 body {
-  /* background-color: rgba(206, 212, 212, 1);*/
-  background-image: url("..\Images\sorasak-WBlYB_A5tzI-unsplash.jpg");
-  background-size: cover;
+  background-image: url("/Images/abstract-antique-backdrop-background-129731.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
 
+  background-color: rgba(206, 212, 212, 1);
   padding: 20px;
 }
 
@@ -11,4 +12,7 @@ body {
 }
 .container:nth-child(2) {
   margin-top: 55px;
+}
+h1#index-header {
+  text-shadow: 2px 2px rgb(149, 149, 236);
 }
